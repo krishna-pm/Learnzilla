@@ -1,4 +1,5 @@
 # learnzilla
+school app
 
 A new Flutter application.
 
